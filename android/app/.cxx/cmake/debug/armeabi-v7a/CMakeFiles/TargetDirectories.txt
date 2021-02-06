@@ -1,0 +1,3 @@
+D:/Work/Projects/Vuforia/Sample/vuforia-sdk-android-9-7-4/samples/DeshGujarat/android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/VuforiaSample.dir
+D:/Work/Projects/Vuforia/Sample/vuforia-sdk-android-9-7-4/samples/DeshGujarat/android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/Work/Projects/Vuforia/Sample/vuforia-sdk-android-9-7-4/samples/DeshGujarat/android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir

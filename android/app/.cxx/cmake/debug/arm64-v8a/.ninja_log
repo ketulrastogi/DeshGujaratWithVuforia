@@ -1,0 +1,9 @@
+# ninja log v5
+1	16	0	clean	1d34e29efc0a23ac
+15	1597	634304022	CMakeFiles/VuforiaSample.dir/90dfddd6ce1c92f1c7ba42a21b5ad644/samples/DeshGujarat/CrossPlatform/MathUtils.cpp.o	73bef8d339be7be1
+31	1784	634304022	CMakeFiles/VuforiaSample.dir/GLESUtils.cpp.o	fed7f65fe2ac43c6
+1	2375	634304023	CMakeFiles/VuforiaSample.dir/90dfddd6ce1c92f1c7ba42a21b5ad644/samples/DeshGujarat/CrossPlatform/AppController.cpp.o	cbea2ad1a469854d
+89	2808	634304023	CMakeFiles/VuforiaSample.dir/VuforiaWrapper.cpp.o	4b8c5b3ac7259f92
+68	3181	634304023	CMakeFiles/VuforiaSample.dir/GLESRenderer.cpp.o	3a4758dc89173ee2
+48	5768	634304026	CMakeFiles/VuforiaSample.dir/90dfddd6ce1c92f1c7ba42a21b5ad644/samples/DeshGujarat/CrossPlatform/tiny_obj_loader.cpp.o	97dc58f5095fba40
+5769	9649	634304030	D:/Work/Projects/Vuforia/Sample/vuforia-sdk-android-9-7-4/samples/DeshGujarat/build/app/intermediates/cmake/debug/obj/arm64-v8a/libVuforiaSample.so	429ef0c853a9d3d0

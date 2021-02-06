@@ -1,0 +1,20 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 19 min SDK version: armeabi-v7a",
+    "file": "D:\\Work\\Projects\\Vuforia\\Sample\\vuforia-sdk-android-9-7-4\\samples\\DeshGujarat\\android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON \u0027D:\\Work\\Projects\\Vuforia\\Sample\\vuforia-sdk-android-9-7-4\\samples\\DeshGujarat\\android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\android_gradle_build.json\u0027 was up-to-date",
+    "file": "D:\\Work\\Projects\\Vuforia\\Sample\\vuforia-sdk-android-9-7-4\\samples\\DeshGujarat\\android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems",
+    "file": "D:\\Work\\Projects\\Vuforia\\Sample\\vuforia-sdk-android-9-7-4\\samples\\DeshGujarat\\android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  }
+]

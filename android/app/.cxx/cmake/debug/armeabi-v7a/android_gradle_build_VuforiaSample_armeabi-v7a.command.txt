@@ -1,0 +1,7 @@
+Executable : C:\Users\KetulRastogi\AppData\Local\Android\sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+D:\Work\Projects\Vuforia\Sample\vuforia-sdk-android-9-7-4\samples\DeshGujarat\android\app\.cxx\cmake\debug\armeabi-v7a
+VuforiaSample
+jvmArgs : 
+

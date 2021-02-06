@@ -1,0 +1,32 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 19 min SDK version: arm64-v8a",
+    "file": "D:\\Work\\Projects\\Vuforia\\Sample\\vuforia-sdk-android-9-7-4\\samples\\DeshGujarat\\android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "profile|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Trying to locate CMake in local SDK repository.",
+    "file": "D:\\Work\\Projects\\Vuforia\\Sample\\vuforia-sdk-android-9-7-4\\samples\\DeshGujarat\\android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "profile|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "- CMake found in SDK at \u0027C:\\Users\\KetulRastogi\\AppData\\Local\\Android\\sdk\\cmake\\3.10.2.4988404\u0027 had version \u00273.10.2\u0027",
+    "file": "D:\\Work\\Projects\\Vuforia\\Sample\\vuforia-sdk-android-9-7-4\\samples\\DeshGujarat\\android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "profile|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON \u0027D:\\Work\\Projects\\Vuforia\\Sample\\vuforia-sdk-android-9-7-4\\samples\\DeshGujarat\\android\\app\\.cxx\\cmake\\profile\\arm64-v8a\\android_gradle_build.json\u0027 was up-to-date",
+    "file": "D:\\Work\\Projects\\Vuforia\\Sample\\vuforia-sdk-android-9-7-4\\samples\\DeshGujarat\\android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "profile|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems",
+    "file": "D:\\Work\\Projects\\Vuforia\\Sample\\vuforia-sdk-android-9-7-4\\samples\\DeshGujarat\\android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "profile|arm64-v8a"
+  }
+]

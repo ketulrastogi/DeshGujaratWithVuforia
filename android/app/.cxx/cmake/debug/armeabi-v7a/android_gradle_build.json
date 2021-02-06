@@ -1,0 +1,67 @@
+{
+  "stringTable": {
+    "0": "D:/Work/Projects/Vuforia/Sample/vuforia-sdk-android-9-7-4/samples/DeshGujarat/android/app/.cxx/cmake/debug/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/KetulRastogi/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/KetulRastogi/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DVuforiaSample_EXPORTS -ID:/Work/Projects/Vuforia/Sample/vuforia-sdk-android-9-7-4/samples/DeshGujarat/android/app/src/main/cpp/../../../../../CrossPlatform -ID:/Work/Projects/Vuforia/Sample/vuforia-sdk-android-9-7-4/samples/DeshGujarat/android/app/src/main/cpp/../../../../../../../build/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -std=c++17 -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "C:\\Users\\KetulRastogi\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\KetulRastogi\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\build\\cmake\\platforms.cmake",
+    "D:\\Work\\Projects\\Vuforia\\Sample\\vuforia-sdk-android-9-7-4\\samples\\DeshGujarat\\android\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\KetulRastogi\\AppData\\Local\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Work\\Projects\\Vuforia\\Sample\\vuforia-sdk-android-9-7-4\\samples\\DeshGujarat\\android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\KetulRastogi\\AppData\\Local\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"D:\\Work\\Projects\\Vuforia\\Sample\\vuforia-sdk-android-9-7-4\\samples\\DeshGujarat\\android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "VuforiaSample-Debug-armeabi-v7a": {
+      "buildCommand": "C:\\Users\\KetulRastogi\\AppData\\Local\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Work\\Projects\\Vuforia\\Sample\\vuforia-sdk-android-9-7-4\\samples\\DeshGujarat\\android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" VuforiaSample",
+      "buildType": "debug",
+      "toolchain": "1841552393",
+      "abi": "armeabi-v7a",
+      "artifactName": "VuforiaSample",
+      "files": [
+        {
+          "src": "D:\\Work\\Projects\\Vuforia\\Sample\\vuforia-sdk-android-9-7-4\\samples\\DeshGujarat\\CrossPlatform\\AppController.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\Work\\Projects\\Vuforia\\Sample\\vuforia-sdk-android-9-7-4\\samples\\DeshGujarat\\CrossPlatform\\MathUtils.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\Work\\Projects\\Vuforia\\Sample\\vuforia-sdk-android-9-7-4\\samples\\DeshGujarat\\CrossPlatform\\tiny_obj_loader.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\Work\\Projects\\Vuforia\\Sample\\vuforia-sdk-android-9-7-4\\samples\\DeshGujarat\\android\\app\\src\\main\\cpp\\GLESRenderer.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\Work\\Projects\\Vuforia\\Sample\\vuforia-sdk-android-9-7-4\\samples\\DeshGujarat\\android\\app\\src\\main\\cpp\\GLESUtils.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\Work\\Projects\\Vuforia\\Sample\\vuforia-sdk-android-9-7-4\\samples\\DeshGujarat\\android\\app\\src\\main\\cpp\\VuforiaWrapper.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\Work\\Projects\\Vuforia\\Sample\\vuforia-sdk-android-9-7-4\\samples\\DeshGujarat\\build\\app\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libVuforiaSample.so"
+    }
+  },
+  "toolchains": {
+    "1841552393": {
+      "cppCompilerExecutable": "C:\\Users\\KetulRastogi\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

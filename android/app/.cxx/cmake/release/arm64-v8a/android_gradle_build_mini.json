@@ -1,0 +1,19 @@
+{
+  "buildFiles": [
+    "C:\\Users\\KetulRastogi\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\KetulRastogi\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\build\\cmake\\platforms.cmake",
+    "D:\\Work\\Projects\\Vuforia\\Sample\\vuforia-sdk-android-9-7-4\\samples\\DeshGujarat\\android\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\KetulRastogi\\AppData\\Local\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Work\\Projects\\Vuforia\\Sample\\vuforia-sdk-android-9-7-4\\samples\\DeshGujarat\\android\\app\\.cxx\\cmake\\release\\arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\KetulRastogi\\AppData\\Local\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"D:\\Work\\Projects\\Vuforia\\Sample\\vuforia-sdk-android-9-7-4\\samples\\DeshGujarat\\android\\app\\.cxx\\cmake\\release\\arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "VuforiaSample-Release-arm64-v8a": {
+      "artifactName": "VuforiaSample",
+      "buildCommand": "C:\\Users\\KetulRastogi\\AppData\\Local\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Work\\Projects\\Vuforia\\Sample\\vuforia-sdk-android-9-7-4\\samples\\DeshGujarat\\android\\app\\.cxx\\cmake\\release\\arm64-v8a\" VuforiaSample",
+      "abi": "arm64-v8a",
+      "output": "D:\\Work\\Projects\\Vuforia\\Sample\\vuforia-sdk-android-9-7-4\\samples\\DeshGujarat\\build\\app\\intermediates\\cmake\\release\\obj\\arm64-v8a\\libVuforiaSample.so"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+# ninja log v5
+1	3376	0	clean	1d34e29efc0a23ac
+1	66	0	clean	1d34e29efc0a23ac
+33	1690	634298457	CMakeFiles/VuforiaSample.dir/90dfddd6ce1c92f1c7ba42a21b5ad644/samples/DeshGujarat/CrossPlatform/MathUtils.cpp.o	24fecaf2c7cda29d
+50	1847	634298457	CMakeFiles/VuforiaSample.dir/GLESUtils.cpp.o	5303ec39ce841d80
+26	2491	634298457	CMakeFiles/VuforiaSample.dir/90dfddd6ce1c92f1c7ba42a21b5ad644/samples/DeshGujarat/CrossPlatform/AppController.cpp.o	1edc511e730ab261
+37	2930	634298458	CMakeFiles/VuforiaSample.dir/VuforiaWrapper.cpp.o	ac8bc29f8134e530
+41	3347	634298458	CMakeFiles/VuforiaSample.dir/GLESRenderer.cpp.o	2cbe9764658e97b2
+46	5999	634298461	CMakeFiles/VuforiaSample.dir/90dfddd6ce1c92f1c7ba42a21b5ad644/samples/DeshGujarat/CrossPlatform/tiny_obj_loader.cpp.o	35ca77561c68b57d
+6000	8011	634298463	D:/Work/Projects/Vuforia/Sample/vuforia-sdk-android-9-7-4/samples/DeshGujarat/build/app/intermediates/cmake/debug/obj/armeabi-v7a/libVuforiaSample.so	71ced1187c9c1790
+24	2180	634300216	CMakeFiles/VuforiaSample.dir/VuforiaWrapper.cpp.o	ac8bc29f8134e530
+2180	4268	634300218	D:/Work/Projects/Vuforia/Sample/vuforia-sdk-android-9-7-4/samples/DeshGujarat/build/app/intermediates/cmake/debug/obj/armeabi-v7a/libVuforiaSample.so	71ced1187c9c1790
+8	2532	634300523	CMakeFiles/VuforiaSample.dir/VuforiaWrapper.cpp.o	ac8bc29f8134e530
+2532	4496	634300525	D:/Work/Projects/Vuforia/Sample/vuforia-sdk-android-9-7-4/samples/DeshGujarat/build/app/intermediates/cmake/debug/obj/armeabi-v7a/libVuforiaSample.so	71ced1187c9c1790
+1	42	0	clean	1d34e29efc0a23ac
+3644	12955	634304014	CMakeFiles/VuforiaSample.dir/GLESUtils.cpp.o	5303ec39ce841d80
+794	12958	634304014	CMakeFiles/VuforiaSample.dir/90dfddd6ce1c92f1c7ba42a21b5ad644/samples/DeshGujarat/CrossPlatform/MathUtils.cpp.o	24fecaf2c7cda29d
+3516	13031	634304014	CMakeFiles/VuforiaSample.dir/90dfddd6ce1c92f1c7ba42a21b5ad644/samples/DeshGujarat/CrossPlatform/AppController.cpp.o	1edc511e730ab261
+3656	13076	634304014	CMakeFiles/VuforiaSample.dir/VuforiaWrapper.cpp.o	ac8bc29f8134e530
+3524	13103	634304014	CMakeFiles/VuforiaSample.dir/GLESRenderer.cpp.o	2cbe9764658e97b2
+3520	16290	634304017	CMakeFiles/VuforiaSample.dir/90dfddd6ce1c92f1c7ba42a21b5ad644/samples/DeshGujarat/CrossPlatform/tiny_obj_loader.cpp.o	35ca77561c68b57d
+16290	18623	634304020	D:/Work/Projects/Vuforia/Sample/vuforia-sdk-android-9-7-4/samples/DeshGujarat/build/app/intermediates/cmake/debug/obj/armeabi-v7a/libVuforiaSample.so	71ced1187c9c1790
